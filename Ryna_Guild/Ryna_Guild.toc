@@ -1,0 +1,24 @@
+## Interface: 16001
+## Title: Guild by Ryna
+## Notes: Your guild in Ryna's window: the roster, what changed since you last looked (who joined, left, levelled or changed rank), and who has gone quiet. A mod of Ryna; /ryna guild.
+## Author: Ryna contributors
+## Version: 0.1.0
+## Dependencies: Ryna_Core
+## X-Ryna-API: 2
+## LoadOnDemand: 0
+
+Mod.lua
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\frFR.lua
+Locales\esES.lua
+Locales\esMX.lua
+Locales\itIT.lua
+Locales\ptBR.lua
+Locales\ruRU.lua
+Locales\koKR.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+Activity.lua
+Section.lua
+Init.lua
